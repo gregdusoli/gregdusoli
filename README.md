@@ -10,8 +10,8 @@ Welcome to my personal Github space! Here you'll find a little about my passion,
 
 ### A little about me (nearly real time):
 
-- 🔭 I’m currently working on [EuQueroInvestir](http://euqueroinvestir.com)
-- 🌱 I’m currently learning Javascript's Bootcamp at [Rocketseat](https://rocketseat.com.br)
+- 🔭 I’m currently working at [Saks](http://hellosaks.com)
+- 🌱 I’m currently studying Java's Developer Bootcamp at [DiO](https://https://digitalinnovation.one)
 - 👯 I’m looking to collaborate on more than a project, but on a mission
 - 💬 Ask me about (almost) what you want (you can ask, but the answer isn't guaranted) 🤪
 - 🎓 I'm passionate about themes like Finance, Geo-Politic, Business, History and Theology
@@ -24,8 +24,8 @@ Welcome to my personal Github space! Here you'll find a little about my passion,
 ### Some techs I know and works with:
 
 - 💻 Frontend: React, Angular, Next.js, jQuery, HTML, CSS, SASS
-- 🌐 Backend: Node.js, PHP, Python, Nest.js, Adonis, Express, CodeIgniter
+- 🌐 Backend: Node.js, PHP, Python, Nest.js, Adonis, Express, CodeIgniter, Sprint Boot
 - 📱 Mobile: React Native, Ionic, Swift
 - 👷 DevOps: Docker, Swarm, Elastic, New Relic, Firewall, Shell Script
-- 🌏 Cloud: Azure, GCP, Web Hosting, DNS
+- 🌏 Cloud: Azure, AWS, GCP, Web Hosting, DNS
 - 🔧 Other Skills: Salesforce (APEX, LWC), VBA, Excell, Prototyping tools, etc
