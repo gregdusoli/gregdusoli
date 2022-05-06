@@ -10,9 +10,9 @@ Welcome to my personal Github space! Here you'll find a little about my passion,
 
 ### A little about me (nearly real time):
 
-- 🔭 I’m currently working at [Saks](http://hellosaks.com)
-- 🌱 I’m currently studying Java's Developer Bootcamp at [DiO](https://https://digitalinnovation.one)
-- 👯 I’m looking to collaborate on more than a project, but on a mission
+- 🔭 I’m currently working at [Conta Simples](http://contasimples.com)
+- 🌱 I’m currently studying about AWS Cloud Platform, 
+- 👯 I’m looking to collaborate on someone's personal and professional development, 
 - 💬 Ask me about (almost) what you want (you can ask, but the answer isn't guaranted) 🤪
 - 🎓 I'm passionate about themes like Finance, Geo-Politic, Business, History and Theology
 - 🎸 I'm a hobbyst musician that loves really good music (it can be rock, jazz, pop, classic, acoustic, vocal, etc) 🎧 [Myself playing](https://soundcloud.com/greg-dusoli/decadence-dance-extreme-cover-by-greg-dusoli)
