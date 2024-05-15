@@ -2,6 +2,8 @@
 
 Welcome to my personal Github space! Here you'll find a little about my passion, hobby and work with coding! 😉
 
+I'm a Full Stack Software Engineer focused on JavaScript, with experience in frameworks such as React, React Native, NestJS, Express, among others.
+
 ---
 
 <img src="https://live.staticflickr.com/65535/50651051222_3788b81324_b.jpg" />
