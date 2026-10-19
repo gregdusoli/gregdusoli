@@ -12,8 +12,8 @@ I'm a Full Stack Software Engineer focused on JavaScript, with experience in fra
 
 ### A little about me (nearly real time):
 
-- 🔭 I’m currently working at [Conta Simples](http://contasimples.com)
-- 🌱 I’m currently studying about AWS Cloud Platform, 
+- 🔭 I’m currently working at [Quintus](http://quintus.tec.br)
+- 🌱 I’m currently studying about AI Software Engineering, 
 - 👯 I’m looking to collaborate on someone's personal and professional development, 
 - 💬 Ask me about (almost) what you want (you can ask, but the answer isn't guaranted) 🤪
 - 🎓 I'm passionate about themes like Finance, Geo-Politic, Business, History and Theology
@@ -27,7 +27,7 @@ I'm a Full Stack Software Engineer focused on JavaScript, with experience in fra
 
 - 💻 Frontend: React, Angular, Next.js, jQuery, HTML, CSS, SASS
 - 🌐 Backend: Node.js, PHP, Python, Nest.js, Adonis, Express, CodeIgniter, Sprint Boot
-- 📱 Mobile: React Native, Ionic, Swift
+- 📱 Mobile: Flutter, React Native, Swift, Ionic
 - 👷 DevOps: Docker, Swarm, Elastic, New Relic, Firewall, Shell Script
 - 🌏 Cloud: Azure, AWS, GCP, Web Hosting, DNS
 - 🔧 Other Skills: Salesforce (APEX, LWC), VBA, Excell, Prototyping tools, etc
